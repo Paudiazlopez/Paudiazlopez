@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner de Pau Díaz López">
+</p>
 # 👋 ¡Hola! Soy Pau Díaz López
 
 ### Estudiante de Sistemas Microinformáticos y Redes | Administración de Sistemas | Redes | Ciberseguridad
