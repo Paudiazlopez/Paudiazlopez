@@ -34,6 +34,13 @@ Windows Server · Linux · Active Directory · DNS · DHCP · Redes
   </a>
 </p>
 
+<p>
+  <a href="https://www.linkedin.com/in/pau-diaz-lopez-872b4643b/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" align="center">
+    LinkedIn
+  </a>
+</p>
+
 ---
 
 <p align="center">
