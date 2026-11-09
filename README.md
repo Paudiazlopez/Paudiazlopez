@@ -68,3 +68,26 @@ Me gusta aprender nuevas tecnologías, realizar prácticas y desarrollar proyect
 <p align="center">
   <b>Aprendiendo, practicando y construyendo mi futuro en IT.</b>
 </p>
+
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paudiazlopez&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paudiazlopez&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="165" />
+</p>
+
+## ⚙️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,bash,html,css,js,git,github,vscode" />
+</p>
+
+## 🌐 Mi entorno de trabajo
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</p>
+
