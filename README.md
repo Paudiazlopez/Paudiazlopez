@@ -27,12 +27,12 @@ Windows Server · Linux · Active Directory · DNS · DHCP · Redes
 
 ### Contacto
 
-<h3>
-  <img src="https://cdn.simpleicons.org/github/white" width="22" align="center">
-  Contacto
-</h3>[GitHub](https://github.com/Paudiazlopez) 
-
-Portfolio próximamente
+<p>
+  <a href="https://github.com/Paudiazlopez">
+    <img src="https://cdn.simpleicons.org/github/white" width="22" align="center">
+    GitHub
+  </a>
+</p>
 
 ---
 
