@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="162a9649-9cbb-4713-88fa-9eaf5259cb1e.png" width="100%" alt="Pau Díaz López">
+  <img src="10379cd6-783b-42d5-8970-b618957683a2.png" width="100%" alt="Pau Díaz López">
 </p>
 
 <h3 align="center">Tecnologías y herramientas</h3>
