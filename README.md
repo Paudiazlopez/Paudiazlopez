@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner de Pau Díaz López">
+  <img src="162a9649-9cbb-4713-88fa-9eaf5259cb1e.png" width="100%" alt="Banner de Pau Díaz López">
 </p>
 # 👋 ¡Hola! Soy Pau Díaz López
 
